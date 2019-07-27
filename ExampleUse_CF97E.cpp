@@ -1,3 +1,4 @@
+//https://codeforces.com/contest/97/submission/46764712
 #include <stdio.h>
 #include <vector>
 #define grdef for (int z=0;z<m;z++)		scanf ("%d %d", &a, &b), gr[a].push_back(b), gr[b].push_back(a), ij[a]++, ij[b]++
